@@ -78,8 +78,16 @@ padding: 3rem;
 text-align: center;
 }
 
-
-
+.banner-text{
+  display: inline-block;
+  margin: auto;
+  padding: 3rem
+  font-size: 2.5rem;
+  width:auto;
+  Background:#0000be;
+  color: #86c5da;
+  border: 15px solid #c1e1ec;
+}
 
 .profile-img {
  max-height: 50vh;
