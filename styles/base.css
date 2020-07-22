@@ -71,10 +71,11 @@ iframe {
 }
 
  .banner {
-min-height: 30vh;
-padding: 5rem 1rem;
-background-image: url('../images/abstract-painting.jpg');
-background-position: center right;
+background: url('../images/abstract-painting.jpg');
+background-size: cover;
+min-height: 50vh;
+padding: 3rem;
+text-align: center;
 }
 
 
